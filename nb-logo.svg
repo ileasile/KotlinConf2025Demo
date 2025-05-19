@@ -1,0 +1,17 @@
+<!-- Copyright 2000-2025 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M13.5579 2.74568C13.1913 2.29092 12.6296 2 12 2H4C2.89543 2 2 2.89543 2 4V11.4275L6.41992 6.02539C6.57052 5.84133 6.79949 5.7396 7.03702 5.75121C7.27456 5.76283 7.49251 5.88642 7.62443 6.08429L9.06199 8.24064L13.5579 2.74568Z" fill="url(#paint0_linear_16807_1823)"/>
+    <path d="M2.44278 13.2551C2.8094 13.7094 3.37077 14 4 14H12C13.1046 14 14 13.1046 14 12V4.57407L9.58086 9.97525C9.43026 10.1593 9.20129 10.261 8.96376 10.2494C8.72622 10.2378 8.50827 10.1142 8.37635 9.91634L6.93879 7.76L2.44278 13.2551Z" fill="url(#paint1_linear_16807_1823)"/>
+    <defs>
+        <linearGradient id="paint0_linear_16807_1823" x1="13.9381" y1="2.06188" x2="2.56812" y2="13.4319" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#E44857"/>
+            <stop offset="0.47" stop-color="#C711E1"/>
+            <stop offset="1" stop-color="#7F52FF"/>
+        </linearGradient>
+        <linearGradient id="paint1_linear_16807_1823" x1="13.9381" y1="2.06188" x2="2.56812" y2="13.4319" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#E44857"/>
+            <stop offset="0.47" stop-color="#C711E1"/>
+            <stop offset="1" stop-color="#7F52FF"/>
+        </linearGradient>
+    </defs>
+</svg>
